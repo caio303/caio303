@@ -1,10 +1,10 @@
-## Opa, eu sou Caio ! :man_technologist: :memo:
+# Opa, eu sou Caio ! :man_technologist: :memo:
 
 Bem vindo aos meu repositórios! Sou um estudante viciado da área da programação, desenvolvimento, tecnologia, e tudo relacionado. Tenho 17 anos, e acho que quanto mais cedo começar a estudar, melhor vai ser, além do fato do meu interesse na área facilitar tudo. Principalmente por estar começando numa área de tantas ramificações e escolhas, fico perdido uma hora ou outra, então QUALQUER ajuda é muuuito bem vinda, seja sobre alguma tecnologia em si, ou algum norte sobre carreiras, etc. Comecei a estudar cedo para procurar empregos como Jovem Aprendiz, além de ajudar em casa, ajudaria MUITO ter essa experiência no meu currículo.
 
 Enfim... Tenho uma grande caminhada, e determinação maior ainda para buscar meus objetivos  :smiley: :rocket:
 
-#### :stop_sign: Tenho bases sólidas em:
+### :stop_sign: Tenho bases sólidas em:
 
 * Lógica de Programação
 * Orientação a Objetos ( POO )
@@ -21,7 +21,7 @@ Enfim... Tenho uma grande caminhada, e determinação maior ainda para buscar me
 
 
 
-#### :book:  Estudos:
+### :book:  Estudos:
 
 // Atualmente, estou cursando o Ensino Médio em João Pessoa, PB, Brasil.
 
@@ -31,7 +31,7 @@ Estudo desenvolvimento, programação, tudo que está na primeira lista, e tudo 
 
 
 
-#### :cactus: Contato:
+### :cactus: Contato:
 
 * Email: caioalves_diogo@hotmail.com
 * Celular: (83) 98791-4312
