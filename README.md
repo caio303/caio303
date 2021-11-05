@@ -35,7 +35,7 @@ Estudo desenvolvimento, programação, tudo que está na primeira lista, e tudo 
 
 * Email: caioalves_diogo@hotmail.com
 * Celular: (83) 98791-4312
-* LinkedIn: linkedin.com/in/caio303
+* LinkedIn: <a href="linkedin.com/in/caio303">linkedin.com/in/caio303</a>
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
