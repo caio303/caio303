@@ -21,7 +21,7 @@ Enfim... Tenho uma grande caminhada, e uma determinação maior ainda para busca
       <img align="center" alt="Caio-Ubuntu" height="40" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
     </div>
 </div>
-  <h2>Redes Sociais 🌎</h2>
+  <h2>Redes Sociais</h2>
     <div style=""> 
       <a href="https://www.linkedin.com/in/caio303" target="_blank"><img height="30" align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
       <a href=""><img height="30" align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
