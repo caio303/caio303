@@ -1,8 +1,7 @@
 # Opa, eu sou Caio ! 🚀
 
-Bem vindo aos meu repositórios! Sou um estudante viciado da área da programação, desenvolvimento, tecnologia, e tudo relacionado. Tenho 17 anos, e acho que quanto mais cedo começar a estudar, melhor vai ser, além do fato do meu interesse na área facilitar tudo. Principalmente por estar começando numa área de tantas ramificações e escolhas, fico perdido uma hora ou outra, então QUALQUER ajuda é muuuito bem vinda, seja sobre alguma tecnologia em si, ou algum norte sobre carreiras, etc. Comecei a estudar cedo para procurar empregos como Jovem Aprendiz, além de ajudar em casa, ajudaria MUITO ter essa experiência no meu currículo.
-
-Enfim... Tenho uma grande caminhada, e uma determinação maior ainda para buscar meus objetivos  :smiley: :rocket:
+Bem vindo aos meus repositórios!<br>
+Alguns dos projetos estão sendo concluídos, da uma olhada :)
 <div style="display: flex;">
     <div>
       <a href="https://github.com/caio303">
