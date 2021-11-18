@@ -27,9 +27,9 @@ Alguns dos projetos estão sendo concluídos, da uma olhada :)
     </div>
   <h2>Redes Sociais</h2>
     <div style=""> 
-      <a href="https://www.linkedin.com/in/caio303" target="_blank"><img height="30" align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-      <a href=""><img height="30" align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-      <a href="mailto:caioalves_diogo@hotmail.com"><img height="30" align="center" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/caio303" target="_blank"><img height="30" align="center" src="https://img.shields.io/badge/-LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=4B8DDA" stroke="4B8DDA" target="_blank"></a>
+      <a href="https://github.com/caio303/"><img height="30" align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=4B8DDA"></a>
+      <a href="mailto:caioalves_diogo@hotmail.com"><img height="30" align="center" src="https://img.shields.io/badge/Outlook-100000?style=for-the-badge&logo=microsoft-outlook&logoColor=4B8DDA"></a>
       <img alt="Snake animation" align="center" src="https://github.com/caio303/caio303/blob/output/github-contribution-grid-snake.svg">
     </div>
 
