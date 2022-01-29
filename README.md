@@ -1,4 +1,4 @@
-# Opa, eu sou Caio ! 🚀
+# Opa, eu sou Caio !
 
 Bem vindo aos meus repositórios!<br>
 Alguns dos projetos estão sendo concluídos, da uma olhada :)
