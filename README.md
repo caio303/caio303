@@ -11,15 +11,15 @@ Alguns dos projetos estão sendo concluídos, da uma olhada :)
       <h2>Minhas Skills</h2>
     <div>
       <img align="center" alt="Caio-React.js" height="55" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-      <img align="center" alt="Caio-Js" height="55" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" alt="Caio-Ts" height="55" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+      <img align="center" alt="Caio-Java" height="55" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+      <img align="center" alt="Caio-Spring" height="55" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+      <img align="center" alt="Caio-Js" height="55" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" alt="Caio-HTML" height="55" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" alt="Caio-CSS" height="55" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <img align="center" alt="Caio-SaSS" height="55" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-      <img align="center" alt="Caio-TailwindCSS" height="55" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+      <img align="center" alt="Caio-MySQL" height="55" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
       <img align="center"  alt="Caio-Node.js" height="55" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-      <img align="center" alt="Caio-Bootstrap" height="55" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
-      <img align="center" alt="Caio-Java" height="55" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
     </div>
 </div>
   <h2>Redes Sociais</h2>
