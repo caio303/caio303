@@ -1,7 +1,6 @@
 # Opa, eu sou Caio !
-
+Sou desenvolvedor Web FullStack<br>
 Bem vindo aos meus repositórios!<br>
-Alguns dos projetos estão sendo concluídos, da uma olhada :)
 <div style="display: flex;">
     <div>
       <a href="https://github.com/caio303">
@@ -19,7 +18,7 @@ Alguns dos projetos estão sendo concluídos, da uma olhada :)
       <img align="center" alt="Caio-CSS" height="55" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <img align="center" alt="Caio-SaSS" height="55" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
       <img align="center" alt="Caio-MySQL" height="55" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
-      <img align="center"  alt="Caio-Node.js" height="55" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+      <img align="center"  alt="Caio-C#" height="55" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
     </div>
 </div>
   <h2>Redes Sociais</h2>
