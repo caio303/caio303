@@ -1,5 +1,5 @@
-# Opa, eu sou Caio !
-Sou desenvolvedor Web FullStack<br>
+# Opa, eu sou Caio!
+Sou desenvolvedor Web FullStack Pleno na QAT Global<br>
 Bem vindo aos meus repositórios!<br>
 <div style="display: flex;">
     <div>
