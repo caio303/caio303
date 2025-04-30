@@ -28,7 +28,3 @@ Bem vindo aos meus repositórios!<br>
       <a href="mailto:caioalves_diogo@hotmail.com"><img height="30" align="center" src="https://img.shields.io/badge/Outlook-100000?style=for-the-badge&logo=microsoft-outlook&logoColor=4B8DDA"></a>
       <img alt="Snake animation" align="center" src="https://github.com/caio303/caio303/blob/output/github-contribution-grid-snake.svg">
     </div>
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Feito por <a href="linkedin.com/in/caio303">caio303</a> :fleur_de_lis:
